@@ -61,4 +61,4 @@ giving a fully functional point of sale system according to client requirement
       
 ## License
 
-Distributed under MIT License.See [License]() for more information.      
+Distributed under MIT License.See [License](LICENSE) for more information.      
